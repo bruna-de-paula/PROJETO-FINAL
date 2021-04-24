@@ -14,7 +14,7 @@
 <a name="project-description"></a>
 
 ## Descrição do Projeto
-A ideia inicial surgiu do desejo de criar uma ferramenta que pudesse contribuir de alguma forma na empresa que trabalho. Atuo na área comercial de uma multinacional de bens de consumo, detentora de diversas marcas mundialmente conhecidas e que são consumidas diariamente por milhares de pessoas. Pensando na quantidade de marcas e diferentes tipos de produtos que existem no mercado, e sendo apaixonada pela categoria de cuidados pessoais e beleza, decidi criar um sistema de recomendação que sugerisse produtos para cabelos considerando as marcas da empresa em que trabalho. Tal sugestão é baseada na recomendação por similaridade do conteúdo com input do usuário. 
+A ideia inicial surgiu do desejo de criar uma ferramenta que pudesse contribuir de alguma forma na empresa que trabalho. Atuo na área comercial de uma multinacional de bens de consumo, detentora de diversas marcas mundialmente conhecidas e que são consumidas diariamente por milhares de pessoas. Pensando na quantidade de marcas e diferentes tipos de produtos que existem no mercado, e sendo apaixonada pela categoria de cuidados pessoais e beleza, decidi criar um sistema de recomendação que sugerisse produtos para cabelos considerando as marcas da empresa em que trabalho. Tal sugestão é baseada na recomendação por similaridade entre conteúdo e input do usuário. 
 
 <a name="sistema-de-recomendação"></a>
 
@@ -27,7 +27,7 @@ Para o projeto final usei o sistema de recomendação por filtragem de conteúdo
 
 ## Metodo
 
-Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. A etapa seguinte foi transformar essa informação de uma forma que permitisse entender a correlação entre o input do usuário e os produtos a serem recomendados. Com os dados classificados, usei a medida euclisiana para o calculo da distância entre informações. 
+Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. A etapa seguinte foi transformar essa informação de uma forma que permitisse entender a correlação entre o input do usuário e os produtos a serem recomendados. Com os dados classificados, usei a biblioteca Scipy e cdist para cálculo da distância entre informações. 
 
 
 <a name="status"></a>
@@ -46,7 +46,7 @@ Em desenvolvimento.
 
 ## Funcionalidades
  
-  * Além de sugerir o produto ideal para cada tipo de cabelo, o sistema trará 3 opções para que o usuário escolha uma. Ao clicar em uma delas, será direcionado ao shopping do google onde seu produto será exibido em diversas opções de varejistas permitindo que faça comparações de preço.
+  * Além de sugerir o produto ideal para cada tipo de cabelo, o sistema trará 3 opções para que o usuário escolha uma. Ao clicar em uma delas, será direcionado ao shopping do Google onde seu produto será exibido em diversas opções de varejistas permitindo que faça comparações de preço.
 
 
 <a name="autora"></a>
