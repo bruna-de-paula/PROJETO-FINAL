@@ -1,2 +1,41 @@
-# PROJETO-FINAL
-PROJETO FINAL DO CURSO DE DA - TURMA DAPT_OCT2020
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
+# HELP MY HAIR
+
+## Conteúdo
+- [Descrição do Projeto](#project-description)
+- [Status](#status)
+- [Etapas](#etapas)
+- [Autora](#autora)
+- [Schedule](#schedule)
+
+
+<a name="project-description"></a>
+
+## Descrição do Projeto
+A ideia inicial surgiu do desejo de criar uma ferramenta que pudesse contribuir de alguma forma na empresa que trabalho. Atuo na área comercial de uma multinacional de bens de consumo, detentora de diversas marcas mundialmente conhecidas e que são consumidas diariamente por milhares de pessoas. Pensando na quantidade de marcas e diferentes tipos de produtos que existem no mercado, e sendo apaixonada pela categoria de cuidados pessoais e beleza, decidi criar um sistema de recomendação que sugerisse produtos para cabelos considerando as marcas da empresa em que trabalho. Tal sugestão é baseada na recomendação por similaridade do conteúdo com input do usuário.
+
+<a name="status"></a>
+
+## Status
+Em desenvolvimento.
+
+<a name="etapas"></a>
+
+## Etapas
+  * [x] Sistema de recomendação por filtragem de conteúdo;
+  * [ ] Criar um sistema hibrido de filtragem de conteúdo e colaborativo;
+  * [ ] Inserir demais categorias e portfolio ampliando as opções de recomendação.
+
+<a name="autora"></a>
+
+## Autora
+
+*
+* https://www.linkedin.com/in/brunadepaula-2020/
+* https://www.instagram.com/bru.ni.ta/
+
+
+
+
+
