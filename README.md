@@ -27,7 +27,7 @@ Para o projeto final usei o sistema de recomendação por filtragem de conteúdo
 
 ## Metodo
 
-Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. Para o sistema de tratamento dos dados para 
+Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. A etapa seguinte foi transformar essa informação de uma forma que permitisse entender a correlação entre o input do usuário e os produtos a serem recomendados. Com os dados classificados, usei a medida euclisiana para o calculo da distância entre informações. 
 
 
 <a name="status"></a>
