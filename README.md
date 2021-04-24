@@ -5,10 +5,11 @@
 ## Conteúdo
 - [Descrição do Projeto](#project-description)
 - [Sistema de recomendação](#sistema-de-recomendação)
+- [Desenvolvimento](#desenvolvimento)
 - [Status](#status)
 - [Etapas](#etapas)
-- [Desenvolvimento](#desenvolvimento)
-- [Autora](#autora)
+- [Funcionalidades](#funcionalidades)
+- [Autor](#autor)
 
 
 <a name="project-description"></a>
@@ -23,11 +24,11 @@ Em um mundo cada vez mais conectado, dinâmico, repleto de informações e conte
 
 Para o projeto final usei o sistema de recomendação por filtragem de conteúdo.
 
-<a name="metodo"></a>
+<a name="Desenvolvimento"></a>
 
-## Metodo
+## Desenvolvimento
 
-Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. A etapa seguinte foi transformar essa informação de uma forma que permitisse entender a correlação entre o input do usuário e os produtos a serem recomendados. Com os dados classificados, usei a biblioteca Scipy e cdist para cálculo da distância entre informações. 
+Após a escolha do dataset, realizei a exploração e limpeza dos dados com base no conteúdo de interesse ao projeto. A etapa seguinte foi transformar essa informação de uma forma que permitisse entender a correlação entre o input do usuário e os produtos a serem recomendados. Com os dados classificados, usei a biblioteca Scipy e cdist para cálculo da distância entre informações. Com esse dados prontos, usei a plataforma Streamlit  para criar uma aplicação na web.
 
 
 <a name="status"></a>
@@ -49,9 +50,9 @@ Em desenvolvimento.
   * Além de sugerir o produto ideal para cada tipo de cabelo, o sistema trará 3 opções para que o usuário escolha uma. Ao clicar em uma delas, será direcionado ao shopping do Google onde seu produto será exibido em diversas opções de varejistas permitindo que faça comparações de preço.
 
 
-<a name="autora"></a>
+<a name="autor"></a>
 
-## Autora
+## Autor
 
 * https://github.com/bruna-de-paula
 * https://www.linkedin.com/in/brunadepaula-2020/
