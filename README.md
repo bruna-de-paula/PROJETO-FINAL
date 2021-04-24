@@ -6,8 +6,8 @@
 - [Descrição do Projeto](#project-description)
 - [Status](#status)
 - [Etapas](#etapas)
+- [Desenvolvimento](#desenvolvimento)
 - [Autora](#autora)
-- [Schedule](#schedule)
 
 
 <a name="project-description"></a>
@@ -20,6 +20,8 @@ A ideia inicial surgiu do desejo de criar uma ferramenta que pudesse contribuir 
 ## Status
 Em desenvolvimento.
 
+
+
 <a name="etapas"></a>
 
 ## Etapas
@@ -27,11 +29,18 @@ Em desenvolvimento.
   * [ ] Criar um sistema hibrido de filtragem de conteúdo e colaborativo;
   * [ ] Inserir demais categorias e portfolio ampliando as opções de recomendação.
 
+<a name="etapas"></a>
+
+## Funcionalidades
+ 
+  * Além de sugerir o produto ideal para cada tipo de cabelo, o sistema trará 3 opções para que o usuário escolha uma. Ao clicar em uma delas, será direcionado ao shopping do google onde seu produto será exibido em diversas opções de varejistas permitindo que faça comparações de preço.
+
+
 <a name="autora"></a>
 
 ## Autora
 
-*
+* https://github.com/bruna-de-paula
 * https://www.linkedin.com/in/brunadepaula-2020/
 * https://www.instagram.com/bru.ni.ta/
 
